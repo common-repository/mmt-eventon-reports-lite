@@ -1,0 +1,422 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MMT - EventON - Reports - Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-28 09:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: mmt-eo-reports"
+
+#: includes/admin/class-mmt-eo-reports-admin-ajax.php:256
+msgid " to "
+msgstr ""
+
+#: includes/admin/pages/page-admin-settings.php:71
+msgid "\"From\" Email Address"
+msgstr ""
+
+#: includes/admin/pages/page-admin-settings.php:67
+msgid "\"From\" Name"
+msgstr ""
+
+#: includes/admin/pages/page-admin-search.php:47
+msgid "1"
+msgstr ""
+
+#: includes/admin/class-mmt-eo-reports-popbox-ajax.php:173
+msgid "Attendee(s) List"
+msgstr ""
+
+#: includes/admin/class-mmt-eo-reports-popbox-ajax.php:142
+msgid "Cancelled"
+msgstr ""
+
+#: includes/admin/pages/page-admin-ticket.php:97
+msgid "Cancelled Orders"
+msgstr ""
+
+#: includes/admin/pages/page-admin-rsvp.php:97
+msgid "Capacity"
+msgstr ""
+
+#: includes/class-mmt-eo-reports-helper-functions.php:137
+msgid "Close Popbox"
+msgstr ""
+
+#: includes/admin/pages/page-admin-ticket.php:32
+msgid "Daily"
+msgstr ""
+
+#: includes/admin/pages/page-admin-rsvp.php:123
+msgid "Download RSVP(s) CSV"
+msgstr ""
+
+#: includes/admin/pages/page-admin-settings.php:111
+msgid "Email Preview"
+msgstr ""
+
+#: includes/admin/pages/page-admin-settings.php:75
+msgid "Email Subject"
+msgstr ""
+
+#: includes/admin/pages/page-admin-views.php:56
+#: includes/admin/pages/page-admin-ticket.php:117
+#: includes/admin/pages/page-admin-general.php:57
+#: includes/admin/pages/page-admin-rsvp.php:91
+msgid "Event Date"
+msgstr ""
+
+#: includes/admin/pages/page-admin-views.php:53
+#: includes/admin/pages/page-admin-ticket.php:114
+#: includes/admin/pages/page-admin-general.php:54
+#: includes/admin/pages/page-admin-rsvp.php:88
+msgid "Event Name"
+msgstr ""
+
+#: includes/admin/class-mmt-eo-reports-admin-ajax.php:170
+#: includes/admin/class-mmt-eo-reports-admin-ajax.php:199
+msgid "Event not selected"
+msgstr ""
+
+#: includes/admin/pages/page-admin-views.php:59
+msgid "Event Top Click"
+msgstr ""
+
+#: includes/admin/admin-settings-page.php:20
+#: includes/admin/pages/page-admin-views.php:12
+msgid "Event Views"
+msgstr ""
+
+#. Description of the plugin
+msgid "EventON addons to display reports on EventON Events (Pro Version)."
+msgstr ""
+
+#: includes/admin/admin-settings-page.php:14
+msgid "EventON Report - MoMo Themes"
+msgstr ""
+
+#: includes/class-mmt-eo-reports-helper-functions.php:176
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:27
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:187
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:344
+msgid "Friday"
+msgstr ""
+
+#: includes/admin/admin-settings-page.php:17
+msgid "General"
+msgstr ""
+
+#: includes/admin/pages/page-admin-general.php:12
+msgid "General Report"
+msgstr ""
+
+#: includes/admin/pages/page-admin-settings.php:38
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/class-mmt-eo-reports-admin-ajax.php:256
+msgid "Generating events from "
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.momothemes.com/"
+msgstr ""
+
+#: includes/admin/pages/page-admin-search.php:28
+msgid "Keyword Used"
+msgstr ""
+
+#: includes/admin/pages/page-admin-rsvp.php:71
+msgid "Maybe"
+msgstr ""
+
+#: includes/class-mmt-eo-reports-cron.php:192
+msgid "maybe"
+msgstr ""
+
+#. Name of the plugin
+msgid "MMT - EventON - Reports - Pro"
+msgstr ""
+
+#. Author of the plugin
+msgid "MoMo Themes"
+msgstr ""
+
+#: includes/class-mmt-eo-reports-helper-functions.php:172
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:23
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:183
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:340
+msgid "Monday"
+msgstr ""
+
+#: includes/admin/pages/page-admin-views.php:35
+#: includes/admin/pages/page-admin-ticket.php:38
+#: includes/admin/pages/page-admin-general.php:34
+#: includes/admin/pages/page-admin-rsvp.php:34
+msgid "Monthly"
+msgstr ""
+
+#: includes/admin/pages/page-admin-rsvp.php:62
+msgid "No"
+msgstr ""
+
+#: includes/class-mmt-eo-reports-cron.php:187
+msgid "no"
+msgstr ""
+
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:402
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:454
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:557
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:681
+#: includes/admin/pages/page-admin-views.php:71
+#: includes/admin/pages/page-admin-ticket.php:135
+#: includes/admin/pages/page-admin-general.php:66
+#: includes/admin/pages/page-admin-rsvp.php:106
+msgid "No Event"
+msgstr ""
+
+#: includes/admin/class-mmt-eo-reports-admin-ajax.php:97
+#: includes/admin/pages/page-admin-search.php:40
+msgid "No Search Log Found"
+msgstr ""
+
+#: includes/admin/class-mmt-eo-reports-admin-ajax.php:277
+msgid "No upcoming events."
+msgstr ""
+
+#: includes/admin/class-mmt-eo-reports-admin-ajax.php:264
+msgid "No upconing event."
+msgstr ""
+
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:154
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:314
+#: includes/admin/class-mmt-eo-reports-admin-ajax.php:48
+#: includes/admin/class-mmt-eo-reports-admin-ajax.php:71
+#: includes/admin/class-mmt-eo-reports-admin-ajax.php:141
+#: includes/admin/class-mmt-eo-reports-admin-ajax.php:227
+msgid "No. of Event(s)"
+msgstr ""
+
+#: includes/admin/class-mmt-eo-reports-admin-ajax.php:255
+msgid "No. of upcoming events: "
+msgstr ""
+
+#: includes/admin/class-mmt-eo-reports-popbox-ajax.php:185
+msgid "Order Status"
+msgstr ""
+
+#: includes/admin/pages/page-admin-ticket.php:88
+msgid "Orders"
+msgstr ""
+
+#: includes/admin/class-mmt-eo-reports-popbox-ajax.php:188
+msgid "Payment type"
+msgstr ""
+
+#: includes/admin/class-mmt-eo-reports-popbox-ajax.php:128
+msgid "Pending"
+msgstr ""
+
+#: includes/admin/pages/page-admin-settings.php:80
+msgid "Reciever Admin Email"
+msgstr ""
+
+#: includes/admin/class-mmt-eo-reports-popbox-ajax.php:156
+msgid "Refunded"
+msgstr ""
+
+#: mmt-eventon-reports-pro.php:114 mmt-eventon-reports-pro.php:115
+msgid "Reports Pro"
+msgstr ""
+
+#: includes/admin/admin-settings-page.php:27
+#: includes/admin/pages/page-admin-rsvp.php:94
+msgid "RSVP"
+msgstr ""
+
+#: includes/admin/pages/page-admin-rsvp.php:18
+msgid "RSVP enabled event(s)"
+msgstr ""
+
+#: includes/admin/class-mmt-eo-reports-admin-ajax.php:300
+msgid "RSVP notification email preview"
+msgstr ""
+
+#: includes/admin/pages/page-admin-rsvp.php:11
+msgid "RSVP Report"
+msgstr ""
+
+#: includes/admin/pages/page-admin-ticket.php:123
+msgid "Sales"
+msgstr ""
+
+#: includes/admin/pages/page-admin-ticket.php:162
+msgid "Sales Insight"
+msgstr ""
+
+#: includes/class-mmt-eo-reports-helper-functions.php:177
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:28
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:188
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:345
+msgid "Saturday"
+msgstr ""
+
+#: includes/admin/pages/page-admin-search.php:31
+msgid "Search Date"
+msgstr ""
+
+#: includes/admin/pages/page-admin-search.php:19
+msgid "Search Keywords"
+msgstr ""
+
+#: includes/admin/admin-settings-page.php:23
+#: includes/admin/pages/page-admin-search.php:12
+msgid "Search Log"
+msgstr ""
+
+#: includes/admin/pages/page-admin-settings.php:50
+msgid "Select day to send notification"
+msgstr ""
+
+#: includes/admin/pages/page-admin-settings.php:58
+msgid "Select time to send notification"
+msgstr ""
+
+#: includes/admin/pages/page-admin-settings.php:47
+msgid "Send RSVP brief to admin email weekly "
+msgstr ""
+
+#: includes/admin/admin-settings-page.php:36
+#: includes/admin/pages/page-admin-settings.php:28
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/pages/page-admin-views.php:62
+msgid "Single Event View"
+msgstr ""
+
+#: includes/admin/class-mmt-eo-reports-popbox-ajax.php:114
+msgid "Sold"
+msgstr ""
+
+#: includes/admin/class-mmt-eo-reports-popbox-ajax.php:100
+msgid "Stock"
+msgstr ""
+
+#: includes/admin/pages/page-admin-ticket.php:126
+msgid "Stock Left"
+msgstr ""
+
+#: includes/class-mmt-eo-reports-helper-functions.php:171
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:22
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:182
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:339
+msgid "Sunday"
+msgstr ""
+
+#: includes/class-mmt-eo-reports-helper-functions.php:175
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:26
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:186
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:343
+msgid "Thursday"
+msgstr ""
+
+#: includes/admin/admin-settings-page.php:32
+msgid "Ticket"
+msgstr ""
+
+#: includes/admin/class-mmt-eo-reports-popbox-ajax.php:182
+msgid "Ticket Holder"
+msgstr ""
+
+#: includes/admin/class-mmt-eo-reports-popbox-ajax.php:179
+msgid "Ticket No."
+msgstr ""
+
+#: includes/admin/pages/page-admin-ticket.php:12
+msgid "Ticket Report"
+msgstr ""
+
+#: includes/admin/pages/page-admin-ticket.php:52
+#: includes/admin/pages/page-admin-ticket.php:120
+msgid "Ticket Sold"
+msgstr ""
+
+#: includes/admin/pages/page-admin-ticket.php:19
+msgid "Ticket Stats"
+msgstr ""
+
+#: includes/admin/class-mmt-eo-reports-popbox-ajax.php:87
+msgid "Ticket(s) order status"
+msgstr ""
+
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:657
+msgid "Top Seller"
+msgstr ""
+
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:638
+msgid "Total"
+msgstr ""
+
+#: includes/admin/pages/page-admin-ticket.php:62
+#: includes/admin/pages/page-admin-ticket.php:79
+msgid "Total Sales"
+msgstr ""
+
+#: includes/class-mmt-eo-reports-helper-functions.php:173
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:24
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:184
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:341
+msgid "Tuesday"
+msgstr ""
+
+#: includes/admin/pages/page-admin-views.php:19
+#: includes/admin/pages/page-admin-general.php:19
+msgid "Upcoming Events"
+msgstr ""
+
+#: includes/admin/pages/page-admin-settings.php:76
+msgid "Upcoming events"
+msgstr ""
+
+#: includes/class-mmt-eo-reports-helper-functions.php:174
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:25
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:185
+#: includes/admin/class-mmt-eo-reports-admin-functions.php:342
+msgid "Wednesday"
+msgstr ""
+
+#: includes/admin/pages/page-admin-views.php:32
+#: includes/admin/pages/page-admin-ticket.php:35
+#: includes/admin/pages/page-admin-general.php:31
+#: includes/admin/pages/page-admin-rsvp.php:31
+msgid "Weekly"
+msgstr ""
+
+#: includes/admin/pages/page-admin-views.php:38
+#: includes/admin/pages/page-admin-ticket.php:41
+#: includes/admin/pages/page-admin-general.php:37
+#: includes/admin/pages/page-admin-rsvp.php:37
+msgid "Yearly"
+msgstr ""
+
+#: includes/admin/pages/page-admin-rsvp.php:53
+msgid "Yes"
+msgstr ""
+
+#: includes/class-mmt-eo-reports-cron.php:182
+msgid "yes"
+msgstr ""
+
+#: mmt-eventon-reports-pro.php:77
+msgid "You do not have EventON main plugin , which is required."
+msgstr ""
